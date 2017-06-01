@@ -6,6 +6,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  *
  * @author luperalt
+ * another comment
  */
 public class Employee {
 
